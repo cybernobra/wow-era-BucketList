@@ -2,6 +2,10 @@
 
 A personal in-game goals list for World of Warcraft Classic Era. Add your goals, check them off, reorder them and share them in chat.
 
+![The BucketList window with its right-click menu](screenshots/window.png)
+
+*Screenshot from the French client, with a player name blurred.*
+
 ## Features
 
 - Add goals and check them off with a left-click. The completion date is recorded.
