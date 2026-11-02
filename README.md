@@ -4,8 +4,6 @@ A personal in-game goals list for World of Warcraft Classic Era. Add your goals,
 
 ![The BucketList window with its right-click menu](screenshots/window.png)
 
-*Screenshot from the French client, with a player name blurred.*
-
 ## Features
 
 - Add goals and check them off with a left-click. The completion date is recorded.
@@ -21,6 +19,8 @@ A personal in-game goals list for World of Warcraft Classic Era. Add your goals,
 - `/bl share guild 5`: share only the first 5 goals.
 
 ## Installation
+
+Search BucketList on the CurseForge App or:
 
 1. Click **Code**, then **Download ZIP**.
 2. Extract the archive and rename the folder `wow-era-BucketList-main` to `BucketList`. The addon does not load under any other folder name.
